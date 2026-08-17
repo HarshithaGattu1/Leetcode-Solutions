@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Hash Table
@@ -47,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
