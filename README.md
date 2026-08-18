@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -77,5 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
