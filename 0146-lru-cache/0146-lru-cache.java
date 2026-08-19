@@ -76,6 +76,7 @@ class LRUCache {
             Node newNode = new Node(key,value);
             dl.insertAfterHead(newNode);
             map.put(key,newNode);
+            return;
         }
         else {
             Node newNode = new Node(key,value);
