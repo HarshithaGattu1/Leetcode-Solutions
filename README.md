@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
