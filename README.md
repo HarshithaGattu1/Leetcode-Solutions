@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0460-lfu-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -98,8 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
