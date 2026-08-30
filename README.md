@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
