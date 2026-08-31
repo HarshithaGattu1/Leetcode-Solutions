@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0460-lfu-cache](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
