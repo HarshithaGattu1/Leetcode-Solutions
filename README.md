@@ -112,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0078-subsets) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
