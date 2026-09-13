@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
