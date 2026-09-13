@@ -1,9 +1,9 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 SELECT
     unique_id,
     name
-FROM Employees
-LEFT JOIN
+from Employees
+left join
 EmployeeUNI
-ON Employees.id = EmployeeUNI.id
+on Employees.id = EmployeeUNI.id
 
