@@ -1,4 +1,4 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 SELECT
     a1.machine_id,
     round(avg(
