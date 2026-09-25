@@ -1,4 +1,4 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 SELECT
     e.name,
     b.bonus
