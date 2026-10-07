@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/0078-subsets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HarshithaGattu1/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
