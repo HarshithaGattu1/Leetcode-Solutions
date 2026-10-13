@@ -1,17 +1,45 @@
 class Solution {
     public long maxAlternatingSum(int[] nums) {
-        long sum=0;
-        for(int i=0;i<nums.length;i++) {
-            if(nums[i] < 0) nums[i] *= -1;
+        int n = nums.length;
+        int maxValue = Integer.MIN_VALUE;
+        
+        for(int i=0;i<n;i++) {
+            if(nums[i] < 0) {
+                nums[i] *= -1;
+            }
+            maxValue = Math.max(maxValue,nums[i]);
         }
-        Arrays.sort(nums);
-        int i=0,j=nums.length-1;
-        while(i<=j) {
-            if(i==j) sum += nums[i]*nums[i];
-            else sum += nums[j]*nums[j] - nums[i]*nums[i];
-            i++;
-            j--;
+
+        int[] freq = new int[maxValue+1];
+        for(int num : nums) {
+            freq[num]++;
         }
-        return sum;
+
+        int negative = n/2;
+        int positive = n-negative;
+
+        int i=maxValue;
+        long ans = 0;
+        while(positive > 0) {
+            while(freq[i] > 0 && positive > 0) {
+                ans += (long)i*i;
+                freq[i]--;
+                positive--;
+            }
+            if(freq[i] == 0) 
+                i--;
+        }
+
+        while(i >= 0) {
+            while(freq[i] > 0) {
+                ans -= (long)i*i;
+                freq[i]--;
+            }
+            if(freq[i] == 0) 
+                i--;
+        }
+
+        return ans;
+
     }
 }
