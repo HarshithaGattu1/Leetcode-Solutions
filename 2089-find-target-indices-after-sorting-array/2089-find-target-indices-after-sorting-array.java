@@ -6,11 +6,11 @@ class Solution {
             freq[num]++;
             max = Math.max(max,num);
         }
-        int index = 0;
+        int countLessThanTarget = 0;
         int countOfTarget = -1;
         for(int i=1;i<=max;i++) {
             if(i != target) {
-                index += freq[i];
+                countLessThanTarget += freq[i];
             }
             else {
                 countOfTarget = freq[i];
@@ -18,10 +18,11 @@ class Solution {
             }
         }
 
+        int startIndexOfTarget = countLessThanTarget;
         List<Integer> ans = new ArrayList<>();
         while(countOfTarget > 0) {
-            ans.add(index);
-            index++;
+            ans.add(startIndexOfTarget);
+            startIndexOfTarget++;
             countOfTarget--;
         }
         return ans;
